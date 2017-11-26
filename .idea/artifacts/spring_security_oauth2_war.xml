@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-security-oauth2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-boot-1.5.x-security-oauth2-1.0.war">
+      <element id="artifact" artifact-name="spring-security-oauth2:war exploded" />
+    </root>
+  </artifact>
+</component>
